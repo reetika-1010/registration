@@ -1,0 +1,3 @@
+body{background-color:#5e50a5 ; animation-name :color; animation-duration:2s; animation-iteration-count: infinite;}
+@keyframes color{from {background-color:#67c7df;} to{background-color:#4976ae;}}
+h1   {color: black;}
